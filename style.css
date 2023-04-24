@@ -1,0 +1,27 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  form input {
+    width: 90%;
+  }
+
+  form textarea {
+    width: 90%;
+    height: 150px;
+    margin-left: 5px;
+  }
+
+  .left-align {
+    text-align: left;
+  }
+
+  button {
+    margin: 15px 0 0 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
